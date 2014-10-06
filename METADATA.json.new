@@ -1,0 +1,24 @@
+{
+  "name": "Griffy",
+  "designer": "Neapolitan",
+  "license": "OFL",
+  "visibility": "Sandbox",
+  "category": "Display",
+  "size": 97366,
+  "fonts": [
+    {
+      "name": "Griffy",
+      "style": "normal",
+      "weight": 400,
+      "filename": "Griffy-Regular.ttf",
+      "postScriptName": "Griffy-Regular",
+      "fullName": "Griffy",
+      "copyright": "Copyright (c) 2012 by Font Diner, Inc DBA Neapolitan (diner@fontdiner.com) with Reseved Font Name \"Griffy\""
+    }
+  ],
+  "subsets": [
+    "latin",
+    "menu"
+  ],
+  "dateAdded": "2012-09-06"
+}
